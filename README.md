@@ -29,6 +29,10 @@ Aproveite nossa oferta especial e assine o Alura+ com acesso ao AluraLingua por 
 3. **Acesse** a plataforma Alura+ e AluraLingua.
 4. Comece a aprender e **melhore suas habilidades**!
 
+## Visualização do Site
+
+Confira a [visualização do site](https://aluraplus-sooty-one.vercel.app/).
+
 ## Contato
 
 Se você tiver alguma dúvida ou precisar de mais informações, entre em contato conosco:
@@ -39,4 +43,3 @@ Se você tiver alguma dúvida ou precisar de mais informações, entre em contat
 ---
 
 Aproveite agora e transforme sua carreira e suas habilidades com Alura+ e AluraLingua!
-
